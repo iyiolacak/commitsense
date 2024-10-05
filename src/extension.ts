@@ -1,6 +1,6 @@
 // Import necessary VS Code and Node.js modules
 import * as vscode from 'vscode';
-import axios from 'axios';
+import axios from 'axios'
 import * as path from 'path';
 import * as fs from 'fs';
 import { exec } from 'child_process';
